@@ -1,1 +1,1 @@
-net.vivin.gradle.versioning.spock.extensions.InjectTestHelpersExtension
+io.github.serpro69.gradle.versioning.spock.extensions.InjectTestHelpersExtension
