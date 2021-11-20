@@ -1,1 +1,2 @@
-startingVersion = '1.1.2'
+startingVersion = '5.0.0'
+tagPrefix = "v"
