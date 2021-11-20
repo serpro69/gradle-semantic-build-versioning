@@ -54,7 +54,7 @@ class TagTask extends DefaultTask {
 
     @Internal
     @Option(description = 'Automatically push the created tag')
-    boolean push
+    Boolean push
 
     @TaskAction
     void tag() {
