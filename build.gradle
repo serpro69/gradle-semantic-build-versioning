@@ -29,9 +29,6 @@ repositories {
 
 sourceCompatibility = 1.7
 
-project.ext.'gradle.publish.key' = System.env.PUBLISH_KEY
-project.ext.'gradle.publish.secret' = System.env.PUBLISH_SECRET
-
 sourceSets.main.java.srcDirs = []
 sourceSets.main.groovy.srcDir 'src/main/java'
 
